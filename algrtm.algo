@@ -10,7 +10,7 @@ BEGIN
     read (C);  
     s:= a+b+c;
     write (s);
-
+    counter01_01: INTEGER;
 /* dddddddddddddd */
 
 END
