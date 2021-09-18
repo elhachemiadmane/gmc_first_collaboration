@@ -1,0 +1,16 @@
+ALGORITHM algorithm_name
+VAR
+//declartion des variables 
+    a, b, c : INTEGER;
+    s: INTEGER;
+
+BEGIN
+    read (a);
+    read (b);
+    read (C);  
+    s:= a+b+c;
+    write (s);
+
+/* dddddddddddddd */
+
+END
