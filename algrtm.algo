@@ -11,6 +11,8 @@ BEGIN
     s:= a+b+c;
     write (s);
     counter01_01: INTEGER;
+    //for teste
+    read(a);
 /* dddddddddddddd */
 
 END
