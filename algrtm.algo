@@ -3,7 +3,7 @@ VAR
 //declartion des variables 
     a, b, c : INTEGER;
     s: INTEGER;
-
+    d: INTEGER;
 BEGIN
     read (a);
     read (b);
